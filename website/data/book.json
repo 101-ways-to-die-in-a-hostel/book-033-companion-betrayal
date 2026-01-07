@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A trusting gap year traveler is murdered by her travel companion of three months who has been planning to steal her inheritance money and disappear.",
     "long": ""
   },
   "death_type": "Companion Betrayal",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Some friendships are made to last. Others are made to kill."
 }
